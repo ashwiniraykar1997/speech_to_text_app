@@ -1,10 +1,11 @@
 setuptools>=65.0.0
 wheel
-pip
-Flask==3.0.2
+pip>=23.0
+
+Flask
 gunicorn
 flask-cors
-python-dotenv==1.0.1
+python-dotenv
 supabase
 anaconda==0.0.1.1
 annotated-types==0.7.0
