@@ -1,7 +1,6 @@
 setuptools>=65.0.0
 wheel
 pip>=23.0
-
 Flask
 gunicorn
 flask-cors
@@ -80,7 +79,7 @@ pyparsing==3.0.7
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2021.3
-pywin32==303
+pywin32
 realtime==2.22.2
 regex==2022.1.18
 requests==2.28.1
