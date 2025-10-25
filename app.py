@@ -23,6 +23,7 @@ from pydub import AudioSegment
 from deepgram import Deepgram
 import io, os
 import asyncio
+print("hi in progress")
 
 load_dotenv()
 
